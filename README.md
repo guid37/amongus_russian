@@ -1,7 +1,7 @@
 # amongus_rus
  Русификатор для Among Us
 
-1. Скачать  архив
+1. Скачать  архив https://github.com/guid37/amongus_russian/archive/1.0.zip
 2. Распаковать  sharedassets0.assets
 3. Перейти в папку с игрой (
 	НайтиAmongUs в стиме
